@@ -1,0 +1,4 @@
+plugins {
+    id 'com.aloboda.modernjava.java-common-conventions'
+    id 'application'
+}

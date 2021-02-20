@@ -1,0 +1,10 @@
+plugins {
+    id 'com.aloboda.modernjava.java-application-conventions'
+}
+
+dependencies {
+}
+
+application {
+    mainClass = 'com.aloboda.modernjava.app.App'
+}
